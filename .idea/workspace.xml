@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0108e01a-34e9-409d-87dc-f80b28e725fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sideG.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automate coc/automate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/automate coc/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/game_images/1full_elixir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/game_images/1full_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/game_images/full_dark_elixir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/game_images/full_elixir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/game_images/full_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/automate coc/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automate coc/training/troop_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/automate coc/training/troop_trainer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +44,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.automate.executor": "Run",
     "Python.bot.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.resource_collector.executor": "Run",
     "Python.train.executor": "Run",
+    "Python.troop_trainer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",

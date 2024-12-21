@@ -6,11 +6,11 @@ import os
 import random
 
 
-# Add the project root directory to Python path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from collectors.resource_collector import ResourceCollector
 from training.troop_trainer import TroopTrainer
+
+# Add the project root directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
 def setup_logging():
@@ -49,7 +49,7 @@ def main():
             time.sleep(random.uniform(1.0, 2.0))
 
             # Train troops
-            trainer.train_troops(troops_to_train)
+            # trainer.train_troops(troops_to_train)
 
             # Wait before next cycle
             time.sleep(random.uniform(4.0, 6.0))

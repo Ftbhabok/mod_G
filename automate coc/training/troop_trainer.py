@@ -6,10 +6,12 @@ import random
 import os
 import sys
 
-# Add parent directory to path to make imports work
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.mouse_utils import MouseController
 from config import IMAGE_PATHS
+
+# Add parent directory to path to make imports work
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 
 
 class TroopTrainer:
