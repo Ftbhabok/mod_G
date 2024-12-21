@@ -1,0 +1,18 @@
+2024-12-21 18:19:02,490 - Collected from position Point(x=354, y=885)
+2024-12-21 18:19:03,492 - Collected from position Point(x=355, y=885)
+2024-12-21 18:19:04,495 - Collected from position Point(x=354, y=886)
+2024-12-21 18:19:05,497 - Collected from position Point(x=355, y=886)
+2024-12-21 18:19:06,499 - Collected from position Point(x=356, y=886)
+2024-12-21 18:19:07,508 - Collected from position Point(x=355, y=887)
+2024-12-21 18:19:11,239 - Detection error: Could not locate the image (highest confidence = 0.558)
+2024-12-21 18:19:14,460 - Detection error: Could not locate the image (highest confidence = 0.570)
+2024-12-21 18:19:17,706 - Detection error: Could not locate the image (highest confidence = 0.562)
+2024-12-21 18:19:20,920 - Detection error: Could not locate the image (highest confidence = 0.564)
+2024-12-21 19:23:23,966 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:27,059 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:30,148 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:33,242 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:36,326 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:39,396 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:42,500 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2024-12-21 19:23:45,583 - Detection error: Failed to read game_images/full_collector.png because file is missing, has improper permissions, or is an unsupported or invalid format
